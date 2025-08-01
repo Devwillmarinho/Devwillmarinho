@@ -64,9 +64,9 @@ Me chamo Willian Marinho, tenho 28 anos e sou natural de Recife. Possuo formaç�
 ## 📈 Atividade no GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/main/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/main/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -96,11 +96,10 @@ Me chamo Willian Marinho, tenho 28 anos e sou natural de Recife. Possuo formaç�
 
 ---
 
-<img src="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/main/output/snake.svg" alt="Snake animation" />
 
 ## 🐍 Atualizar Snake Contribution Graph
 
 [![Run Snake](https://github.com/Devwillmarinho/Devwillmarinho/actions/workflows/snake.yml/badge.svg)](https://github.com/Devwillmarinho/Devwillmarinho/actions/workflows/snake.yml)
 
 ➡️ Clique no botão acima para rodar manualmente o Snake e atualizar a animação no perfil.
-
