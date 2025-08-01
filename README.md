@@ -98,6 +98,7 @@ Me chamo Willian Marinho, tenho 28 anos e sou natural de Recife. Possuo formaç�
 
 ## 🐍 Snake Contribution Graph
 <img src="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/main/output/snake.svg" alt="Snake animation" />
+
 [![Run Snake](https://github.com/Devwillmarinho/Devwillmarinho/actions/workflows/snake.yml/badge.svg)](https://github.com/Devwillmarinho/Devwillmarinho/actions/workflows/snake.yml)
 
 ➡️ Clique no botão acima para rodar manualmente o Snake e atualizar a animação no perfil.
