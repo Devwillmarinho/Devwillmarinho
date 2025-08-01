@@ -95,7 +95,17 @@ Me chamo Willian Marinho, tenho 28 anos e sou natural de Recife. Possuo formaç�
 </div>
 
 ---
+## 🟡 Atualizar Pac-Man Contribution Graph
 
+[![Run Pac-Man Animation](https://github.com/Devwillmarinho/Devwillmarinho/actions/workflows/pacman.yml/badge.svg)](https://github.com/Devwillmarinho/Devwillmarinho/actions/workflows/pacman.yml)
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 ## 🐍 Snake Contribution Graph
 <img src="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/main/output/snake.svg" alt="Snake animation" />
 
