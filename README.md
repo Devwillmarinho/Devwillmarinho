@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Willian Marinho, tenho 27 anos e sou natural de Recife. Concluí o ensino médio e tenho formação em Administração de Empresas e ADS. Atualmente, estou cursando um Técnico em Análise e Desenvolvimento de Sistemas pela Grau Técnico. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub e LinkedIn, onde compartilho conteúdos sobre desenvolvimento e tecnologia.
+Me chamo Willian Marinho, tenho 28 anos e sou natural de Recife. possuo formação em Administração de Empresas e ADS. Atualmente, estou cursando um Técnico em Análise e Desenvolvimento de Sistemas pela Grau Técnico. Sou apaixonado por tecnologia e compartilho meus conhecimentos através do meu GitHub e LinkedIn, onde compartilho conteúdos sobre desenvolvimento e tecnologia.
 
 ---
 
