@@ -124,6 +124,12 @@ Me chamo Willian Marinho, tenho 28 anos e sou natural de Recife. possuo formaç�
 <br/>
 <br/>
 
+
+
+
+
+
+
 ### 📊 Estatísticas
 
 <p>
@@ -143,3 +149,10 @@ Me chamo Willian Marinho, tenho 28 anos e sou natural de Recife. possuo formaç�
   />
 
 </p>
+
+
+###
+
+<img src="https://raw.githubusercontent.com/devwillmarinho/devwillmarinho/output/snake.svg" alt="Snake animation" />
+
+###
