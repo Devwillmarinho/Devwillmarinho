@@ -95,7 +95,7 @@ Me chamo Willian Marinho, tenho 28 anos e sou natural de Recife. Possuo formaç�
 </div>
 
 ---
-## 🟡 Atualizar Pac-Man Contribution Graph
+## 🟡 Pac-Man Contribution Graph
 
 [![Run Pac-Man Animation](https://github.com/Devwillmarinho/Devwillmarinho/actions/workflows/pacman.yml/badge.svg)](https://github.com/Devwillmarinho/Devwillmarinho/actions/workflows/pacman.yml)
 <picture>
